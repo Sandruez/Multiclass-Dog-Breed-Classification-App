@@ -37,7 +37,10 @@ Multiple pre-trained architectures were tested and compared against a scratch-bu
 
 ## 📈 Performance Chart
 
-![Model Performance](Images/model_performance_analysis(OF,UF,B).png)
+<p align="center">
+  <img src='Images/model_performance_analysis(OF,UF,B).png'
+       width="800"/>
+</p>
 
 ---
 
